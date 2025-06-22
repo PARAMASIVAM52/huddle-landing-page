@@ -75,7 +75,7 @@ npm install -g sass
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/h.landing-page.git
+git clone https://github.com/PARAMASIVAM52/h.landing-page.git
 cd h.landing-page
 
 # Install dependencies
